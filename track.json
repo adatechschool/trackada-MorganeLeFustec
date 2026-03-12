@@ -3,7 +3,7 @@
     "projects": [
         {
             "name": "adapage",
-            "required": ["index.html", "index.css", "index.js"]
+            "required": ["index.html", "style.css", "script.js"]
         },
         {
             "name": "trackada",
@@ -11,7 +11,7 @@
         },
         {
             "name": "adaquiz",
-            "required": ["index.html"]
+            "required": ["index.html", "package.json"]
         },
         {
             "name": "adalgo",
